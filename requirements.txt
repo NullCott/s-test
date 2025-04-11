@@ -1,0 +1,5 @@
+tqdm
+termcolor
+python3-nmap
+scapy
+

@@ -1,0 +1,14 @@
+# Nmap 7.95 scan initiated Thu Apr 10 23:59:22 2025 as: /usr/lib/nmap/nmap --host-timeout 10s -sS -T4 -Pn -n -oN attack_results/syn_scan/syn_scan_192.168.1.0-30_192.168.0.100.txt 192.168.1.0/30
+Nmap scan report for 192.168.1.0
+Host is up.
+Skipping host 192.168.1.0 due to host timeout
+Nmap scan report for 192.168.1.1
+Host is up.
+Skipping host 192.168.1.1 due to host timeout
+Nmap scan report for 192.168.1.2
+Host is up.
+Skipping host 192.168.1.2 due to host timeout
+Nmap scan report for 192.168.1.3
+Host is up.
+Skipping host 192.168.1.3 due to host timeout
+# Nmap done at Thu Apr 10 23:59:32 2025 -- 4 IP addresses (4 hosts up) scanned in 10.10 seconds

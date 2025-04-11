@@ -1,0 +1,3 @@
+[*] Launching SYN Scan on 192.168.0.100 in 192.168.1.0/30
+[syn_scan] Compliance result saved to: attack_results/syn_scan/cumplimiento_syn_scan_192.168.1.0-30_192.168.0.100.txt
+[*] Launching IP Spoofing attacks from 192.168.0.20 on 192.168.0.100

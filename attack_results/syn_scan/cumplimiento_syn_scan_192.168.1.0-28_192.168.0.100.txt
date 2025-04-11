@@ -1,0 +1,90 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-04-10 23:41 -05
+Stats: 0:00:02 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.09% done
+Stats: 0:00:04 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.22% done
+Stats: 0:00:06 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.34% done
+Stats: 0:00:08 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.47% done
+Stats: 0:00:10 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.59% done
+Stats: 0:00:12 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.72% done
+Stats: 0:00:14 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.84% done
+Stats: 0:00:16 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 0.97% done
+Stats: 0:00:18 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.09% done; ETC: 00:08 (0:27:08 remaining)
+Stats: 0:00:20 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.22% done; ETC: 00:08 (0:27:01 remaining)
+Stats: 0:00:22 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.34% done; ETC: 00:08 (0:26:55 remaining)
+Stats: 0:00:24 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.47% done; ETC: 00:08 (0:26:50 remaining)
+Stats: 0:00:26 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.59% done; ETC: 00:08 (0:26:45 remaining)
+Stats: 0:00:28 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.72% done; ETC: 00:08 (0:26:41 remaining)
+Stats: 0:00:30 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.84% done; ETC: 00:08 (0:26:37 remaining)
+Stats: 0:00:32 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 1.97% done; ETC: 00:08 (0:26:33 remaining)
+Stats: 0:00:34 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.09% done; ETC: 00:08 (0:26:30 remaining)
+Stats: 0:00:36 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.22% done; ETC: 00:08 (0:26:27 remaining)
+Stats: 0:00:38 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 2.34% done; ETC: 00:08 (0:26:23 remaining)
+Stats: 0:00:40 elapsed; 0 hosts completed (16 up), 16 undergoing SYN Stealth Scan
+SYN Stealth Scan Timing: About 63.47% done; ETC: 23:42 (0:00:23 remaining)
+Nmap scan report for 192.168.1.0
+Host is up.
+Skipping host 192.168.1.0 due to host timeout
+Nmap scan report for 192.168.1.1
+Host is up.
+Skipping host 192.168.1.1 due to host timeout
+Nmap scan report for 192.168.1.2
+Host is up.
+Skipping host 192.168.1.2 due to host timeout
+Nmap scan report for 192.168.1.3
+Host is up.
+Skipping host 192.168.1.3 due to host timeout
+Nmap scan report for 192.168.1.4
+Host is up.
+Skipping host 192.168.1.4 due to host timeout
+Nmap scan report for 192.168.1.5
+Host is up.
+Skipping host 192.168.1.5 due to host timeout
+Nmap scan report for 192.168.1.6
+Host is up.
+Skipping host 192.168.1.6 due to host timeout
+Nmap scan report for 192.168.1.7
+Host is up.
+Skipping host 192.168.1.7 due to host timeout
+Nmap scan report for 192.168.1.8
+Host is up.
+Skipping host 192.168.1.8 due to host timeout
+Nmap scan report for 192.168.1.9
+Host is up.
+Skipping host 192.168.1.9 due to host timeout
+Nmap scan report for 192.168.1.10
+Host is up.
+Skipping host 192.168.1.10 due to host timeout
+Nmap scan report for 192.168.1.11
+Host is up.
+Skipping host 192.168.1.11 due to host timeout
+Nmap scan report for 192.168.1.12
+Host is up.
+Skipping host 192.168.1.12 due to host timeout
+Nmap scan report for 192.168.1.13
+Host is up.
+Skipping host 192.168.1.13 due to host timeout
+Nmap scan report for 192.168.1.14
+Host is up.
+Skipping host 192.168.1.14 due to host timeout
+Nmap scan report for 192.168.1.15
+Host is up.
+Skipping host 192.168.1.15 due to host timeout
+Nmap done: 16 IP addresses (16 hosts up) scanned in 40.64 seconds
