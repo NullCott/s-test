@@ -137,6 +137,7 @@ function syn_scan() {
 }
 
 function ip_spoof_dos() {
+    :
     #disable for this test
 }
 
@@ -235,7 +236,7 @@ function mac_spoof_scan() {
         cp "$output_mac_spoof_scan" "$base_output_dir/mac_spoof_scan/non_compliant_${segment//\//_}.txt"
         status_pentest=false
     else
-        echo -e "${GREEN}[+] Fragmented scan on $segment${NC}";echo
+        echo -e "${GREEN}[+] MAC scan on $segment${NC}";echo
     fi
 }
 
