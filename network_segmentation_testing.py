@@ -178,7 +178,7 @@ def run_mac_scan(segment,targets, output_dir):
 
 # UDP scan
 def run_udp_scan(segment, output_dir):
-    output_file = os.path.join(output_dir, f"{segment.replace('/', '_')}_syn.txt")
+    output_file = os.path.join(output_dir, f"{segment.replace('/', '_')}_udp.txt")
     command = f"sudo nmap -sU -T4 -Pn --top-ports 100 -n {segment} -oN {output_file}"
     try:
         print(colored(f"\n[+] Executing UDP scan for the segment {segment}", 'yellow'))
